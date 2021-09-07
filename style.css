@@ -1,0 +1,37 @@
+.jamamaho{
+    font-size: 40px;
+    box-shadow: 10px 10px 10px darkgoldenrod;
+    border-radius: 30px;
+}
+
+body{
+    
+    font-family: 'Annie Use Your Telescope';
+
+}
+
+i{
+    font-size: 40px;
+    margin-right: 20px;
+    color:crimson;
+}
+
+h2{
+    font-size: 30px;
+    color: white
+
+}
+
+.footiepajamas{
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    background-image: linear-gradient(to right, darkorchid, black);
+}
+
+canvas{
+    border-style: ridge;
+    border-color: purple;
+    border-width: 10px;
+    background-image: linear-gradient(to right, skyblue, black)
+}
